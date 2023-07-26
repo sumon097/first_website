@@ -21,6 +21,7 @@ h1{font-size: 70px;
 }
 section{
     height: 600px;
+
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +32,19 @@ section{
     color: white;
 
 
+}
+p{
+    color: dimgray;
+
+}
+.click-button{
+    text-decoration: none;
+    background-color: rgb(218, 100, 17);
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-style: bold;
+    color: white;
+}
+.background{
+    background-image: url(images/background.jpg);
 }
