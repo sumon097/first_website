@@ -53,6 +53,15 @@ p{
     border-radius: 5px;
     height: 40%;
 }
-.section area{
-    background-image: url(images/background.jpg);
+.bg{background-image: url(images/2.jpg);
+    margin: 0;
+}
+#color-border{
+    border-left: 7px solid;
+}
+#color-border2{
+    border-left: 7px solid;
+}
+footer p{
+    text-align: center ;
 }
